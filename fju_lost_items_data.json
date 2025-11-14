@@ -1,0 +1,953 @@
+{
+  "metadata": {
+    "source": "輔仁大學拾物招領系統",
+    "url": "https://www.net.fju.edu.tw/lost/",
+    "total_items_in_system": 238,
+    "items_collected": 100,
+    "collection_date": "2025-11-14",
+    "pages_scraped": "1-5"
+  },
+  "items": [
+    {
+      "id": "C25110056",
+      "name": "藍芽耳機 (棕色.圖案外殼)",
+      "date_found": "2025-11-12",
+      "location_found": "資訊中心電腦教室 LE402",
+      "pickup_location": "資訊中心網路與資源管理組-聖言樓SF416",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "A114220",
+      "name": "灰色磁吸記事本",
+      "date_found": "2025-11-13",
+      "location_found": "于斌樓2F男廁",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25110055.gif",
+      "has_image": true
+    },
+    {
+      "id": "C25110053",
+      "name": "藍芽耳機 (白色外殼) + 充電線",
+      "date_found": "2025-11-11",
+      "location_found": "資訊中心電腦教室 LE403",
+      "pickup_location": "資訊中心網路與資源管理組-聖言樓SF416",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "C25110052",
+      "name": "藍芽耳機",
+      "date_found": "2025-11-11",
+      "location_found": "資訊中心電腦教室 LE401",
+      "pickup_location": "資訊中心網路與資源管理組-聖言樓SF416",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "A114219",
+      "name": "餐袋",
+      "date_found": "2025-11-12",
+      "location_found": "國璽樓圖書館",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25110051.gif",
+      "has_image": true
+    },
+    {
+      "id": "A114218",
+      "name": "藍色袋子",
+      "date_found": "2025-11-12",
+      "location_found": "國璽樓圖書館",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25110050.gif",
+      "has_image": true
+    },
+    {
+      "id": "A114217",
+      "name": "林OO學生證412241OOO",
+      "date_found": "2025-11-12",
+      "location_found": "國璽樓圖書館",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "A114216",
+      "name": "黑色藍芽耳機單支",
+      "date_found": "2025-11-12",
+      "location_found": "國璽樓圖書館",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25110048.gif",
+      "has_image": true
+    },
+    {
+      "id": "A114215",
+      "name": "無線耳機一對",
+      "date_found": "2025-11-12",
+      "location_found": "國璽樓圖書館",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25110047.gif",
+      "has_image": true
+    },
+    {
+      "id": "A114214",
+      "name": "灰色USB",
+      "date_found": "2025-11-12",
+      "location_found": "國璽樓圖書館",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25110046.gif",
+      "has_image": true
+    },
+    {
+      "id": "A114213",
+      "name": "黑褐色USB",
+      "date_found": "2025-11-12",
+      "location_found": "國璽樓圖書館",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25110045.gif",
+      "has_image": true
+    },
+    {
+      "id": "A114211",
+      "name": "江OO學生證414580OOO",
+      "date_found": "2025-11-12",
+      "location_found": "國璽樓圖書館",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "A114210",
+      "name": "保溫杯",
+      "date_found": "2025-11-12",
+      "location_found": "國璽樓圖書館",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25110042.gif",
+      "has_image": true
+    },
+    {
+      "id": "A114209",
+      "name": "黑色水壺",
+      "date_found": "2025-11-12",
+      "location_found": "國璽樓圖書館",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25110041.gif",
+      "has_image": true
+    },
+    {
+      "id": "A114207",
+      "name": "吳OO學生證413100OOO",
+      "date_found": "2025-11-11",
+      "location_found": "軍訓室轉交",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "C25110038",
+      "name": "藍芽耳機 (黑色外殼)",
+      "date_found": "2025-11-10",
+      "location_found": "資訊中心電腦教室 SF337",
+      "pickup_location": "資訊中心網路與資源管理組-聖言樓SF416",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "C25110036",
+      "name": "隨身碟 (SanDisk - 黑)",
+      "date_found": "2025-11-10",
+      "location_found": "資訊中心電腦教室 LE403",
+      "pickup_location": "資訊中心網路與資源管理組-聖言樓SF416",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "B108",
+      "name": "賴OO 學生證 412065OOO",
+      "date_found": "2025-11-10",
+      "location_found": "ES805",
+      "pickup_location": "進-生輔組-進修部ES201",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "B107",
+      "name": "gogoro鑰匙卡+卡套",
+      "date_found": "2025-11-10",
+      "location_found": "LM501",
+      "pickup_location": "進-生輔組-進修部ES201",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25110033.gif",
+      "has_image": true
+    },
+    {
+      "id": "C25110031",
+      "name": "藍芽耳機 (白色、灰色外殼)",
+      "date_found": "2025-11-08",
+      "location_found": "資訊中心電腦教室 ES401",
+      "pickup_location": "資訊中心網路與資源管理組-聖言樓SF416",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "A114206",
+      "name": "謝O學生證412296OOO",
+      "date_found": "2025-11-07",
+      "location_found": "抒德樓外圓環",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "B105",
+      "name": "平板+資料夾",
+      "date_found": "2025-11-07",
+      "location_found": "LM501",
+      "pickup_location": "進-生輔組-進修部ES201",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25110029.gif",
+      "has_image": true
+    },
+    {
+      "id": "A114205",
+      "name": "何OO學生證410560OOO",
+      "date_found": "2025-11-07",
+      "location_found": "南港分局函寄",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "B104",
+      "name": "王OO學生證512100XXX",
+      "date_found": "2025-11-06",
+      "location_found": "ES4F",
+      "pickup_location": "進-生輔組-進修部ES201",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "A114203",
+      "name": "拉布布公仔",
+      "date_found": "2025-11-06",
+      "location_found": "YP樓前花壇",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "C25110021",
+      "name": "隨身碟 (Kingston - 黑 - 64G)",
+      "date_found": "2025-11-05",
+      "location_found": "資訊中心電腦教室 LE404A",
+      "pickup_location": "資訊中心網路與資源管理組-聖言樓SF416",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "B101",
+      "name": "許OO學生證413352XXX",
+      "date_found": "2025-11-05",
+      "location_found": "ES802",
+      "pickup_location": "進-生輔組-進修部ES201",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "B100",
+      "name": "手錶（銀）",
+      "date_found": "2025-11-05",
+      "location_found": "LM303",
+      "pickup_location": "進-生輔組-進修部ES201",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25110017.gif",
+      "has_image": true
+    },
+    {
+      "id": "A114200",
+      "name": "吳OO學生證412456OOO",
+      "date_found": "2025-11-04",
+      "location_found": "北藝大函寄",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "A114196",
+      "name": "腳架",
+      "date_found": "2025-11-04",
+      "location_found": "聖言樓",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25110009.gif",
+      "has_image": true
+    },
+    {
+      "id": "C25110007",
+      "name": "廠商文件",
+      "date_found": "2025-11-03",
+      "location_found": "資訊中心電腦教室 ES302",
+      "pickup_location": "資訊中心網路與資源管理組-聖言樓SF416",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "C25110006",
+      "name": "隨身碟 (Transcend - 白 - 64G)",
+      "date_found": "2025-11-03",
+      "location_found": "資訊中心電腦教室 LE404A",
+      "pickup_location": "資訊中心網路與資源管理組-聖言樓SF416",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "A114194",
+      "name": "王OO學生證411261OOO",
+      "date_found": "2025-11-03",
+      "location_found": "台南市政府第二分局函寄",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "C25110002",
+      "name": "藍芽耳機 (黑色外殼)",
+      "date_found": "2025-10-31",
+      "location_found": "資訊中心電腦教室 SF337",
+      "pickup_location": "資訊中心網路與資源管理組-聖言樓SF416",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "C25110001",
+      "name": "藍芽耳機 (白色外殼)",
+      "date_found": "2025-10-31",
+      "location_found": "資訊中心電腦教室 SF340-1",
+      "pickup_location": "資訊中心網路與資源管理組-聖言樓SF416",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "B96",
+      "name": "半透明袋子（內有鉛筆盒+行充）",
+      "date_found": "2025-10-31",
+      "location_found": "LM 5樓",
+      "pickup_location": "進-生輔組-進修部ES201",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25100166.gif",
+      "has_image": true
+    },
+    {
+      "id": "B95",
+      "name": "行充（白）+充電線（黑）",
+      "date_found": "2025-10-31",
+      "location_found": "LM301",
+      "pickup_location": "進-生輔組-進修部ES201",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25100165.gif",
+      "has_image": true
+    },
+    {
+      "id": "B93",
+      "name": "風扇（米白）",
+      "date_found": "2025-10-31",
+      "location_found": "LM 5樓",
+      "pickup_location": "進-生輔組-進修部ES201",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25100163.gif",
+      "has_image": true
+    },
+    {
+      "id": "A114192",
+      "name": "趙OO學生證413271OOO",
+      "date_found": "2025-10-31",
+      "location_found": "北投分局函寄",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "C25100159",
+      "name": "隨身碟 (ADATA - 黑 - 128G - [孫oo])",
+      "date_found": "2025-10-30",
+      "location_found": "資訊中心電腦教室 ES301",
+      "pickup_location": "資訊中心網路與資源管理組-聖言樓SF416",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "B87",
+      "name": "耳機（右耳單隻）",
+      "date_found": "2025-10-29",
+      "location_found": "ES001",
+      "pickup_location": "進-生輔組-進修部ES201",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25100152.gif",
+      "has_image": true
+    },
+    {
+      "id": "B86",
+      "name": "行充（黑）",
+      "date_found": "2025-10-29",
+      "location_found": "ES705",
+      "pickup_location": "進-生輔組-進修部ES201",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25100151.gif",
+      "has_image": true
+    },
+    {
+      "id": "B85",
+      "name": "耳機（白色+音符貼紙）",
+      "date_found": "2025-10-29",
+      "location_found": "LM",
+      "pickup_location": "進-生輔組-進修部ES201",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25100150.gif",
+      "has_image": true
+    },
+    {
+      "id": "A114186",
+      "name": "黑色行充",
+      "date_found": "2025-10-29",
+      "location_found": "圖書館轉交",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25100144.gif",
+      "has_image": true
+    },
+    {
+      "id": "A114185",
+      "name": "充電器",
+      "date_found": "2025-10-29",
+      "location_found": "圖書館轉交",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25100143.gif",
+      "has_image": true
+    },
+    {
+      "id": "A114184",
+      "name": "化妝品(粉餅)",
+      "date_found": "2025-10-29",
+      "location_found": "圖書館轉交",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "A114183",
+      "name": "保溫杯",
+      "date_found": "2025-10-29",
+      "location_found": "圖書館轉交",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25100141.gif",
+      "has_image": true
+    },
+    {
+      "id": "A114182",
+      "name": "陳OO學生證414021OOO",
+      "date_found": "2025-10-29",
+      "location_found": "警衛室轉交",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "C25100138",
+      "name": "隨身碟 (Kingston - 黑 - 128G)",
+      "date_found": "2025-10-28",
+      "location_found": "資訊中心電腦教室 SF337",
+      "pickup_location": "資訊中心網路與資源管理組-聖言樓SF416",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "A114179",
+      "name": "GOGORO磁卡",
+      "date_found": "2025-10-27",
+      "location_found": "于斌樓前",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25100135.gif",
+      "has_image": true
+    },
+    {
+      "id": "A114177",
+      "name": "何OO學生證414230OOO",
+      "date_found": "2025-10-27",
+      "location_found": "學務處轉交",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "C25100110",
+      "name": "學生證 王OO 學號414040xxx (+黑色小包)",
+      "date_found": "2025-10-21",
+      "location_found": "資訊中心電腦教室 LE402",
+      "pickup_location": "資訊中心網路與資源管理組-聖言樓SF416",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "B79",
+      "name": "藍色小風扇",
+      "date_found": "2025-10-21",
+      "location_found": "利瑪竇",
+      "pickup_location": "進-生輔組-進修部ES201",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25100124.gif",
+      "has_image": true
+    },
+    {
+      "id": "B78",
+      "name": "高OO學生證508120OOO",
+      "date_found": "2025-10-21",
+      "location_found": "警局函寄",
+      "pickup_location": "進-生輔組-進修部ES201",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "A114171",
+      "name": "太陽眼鏡",
+      "date_found": "2025-10-21",
+      "location_found": "外語學院",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25100122.gif",
+      "has_image": true
+    },
+    {
+      "id": "A114170",
+      "name": "謝OO學生證411290OOO",
+      "date_found": "2025-10-21",
+      "location_found": "警衛室轉交",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "A114169",
+      "name": "余OO學生證411241OOO",
+      "date_found": "2025-10-21",
+      "location_found": "警衛室轉交",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "C25100107",
+      "name": "隨身碟 (Apacer - 紅.黑色)",
+      "date_found": "2025-10-20",
+      "location_found": "資訊中心電腦教室 LE404A",
+      "pickup_location": "資訊中心網路與資源管理組-聖言樓SF416",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "C25100106",
+      "name": "藍芽耳機 (白色、無外盒)",
+      "date_found": "2025-10-20",
+      "location_found": "資訊中心電腦教室 SF338",
+      "pickup_location": "資訊中心網路與資源管理組-聖言樓SF416",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "B75",
+      "name": "行動電源（黑）",
+      "date_found": "2025-10-17",
+      "location_found": "LM302",
+      "pickup_location": "進-生輔組-進修部ES201",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25100104.gif",
+      "has_image": true
+    },
+    {
+      "id": "C25100099",
+      "name": "隨身碟 (Transcend - 紅 - 1G)",
+      "date_found": "2025-10-16",
+      "location_found": "資訊中心電腦教室 ES302",
+      "pickup_location": "資訊中心網路與資源管理組-聖言樓SF416",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "B73",
+      "name": "耳機（粉）",
+      "date_found": "2025-10-16",
+      "location_found": "LM501",
+      "pickup_location": "進-生輔組-進修部ES201",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25100096.gif",
+      "has_image": true
+    },
+    {
+      "id": "C25100095",
+      "name": "藍芽耳機 (白)",
+      "date_found": "2025-10-15",
+      "location_found": "資訊中心電腦教室 LE404A",
+      "pickup_location": "資訊中心網路與資源管理組-聖言樓SF416",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "C25100094",
+      "name": "隨身碟 (Kingston - 黑 - 16G - [曾oo])",
+      "date_found": "2025-10-15",
+      "location_found": "資訊中心電腦教室 LE404B",
+      "pickup_location": "資訊中心網路與資源管理組-聖言樓SF416",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "C25100093",
+      "name": "WebCam (logi - 黑)",
+      "date_found": "2025-10-15",
+      "location_found": "資訊中心電腦教室 SF338",
+      "pickup_location": "資訊中心網路與資源管理組-聖言樓SF416",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "C25100091",
+      "name": "隨身碟 (SanDisk - 黑)",
+      "date_found": "2025-10-13",
+      "location_found": "資訊中心電腦教室 LE404A",
+      "pickup_location": "資訊中心網路與資源管理組-聖言樓SF416",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "C25100090",
+      "name": "隨身碟 (SanDisk - 銀)",
+      "date_found": "2025-10-14",
+      "location_found": "資訊中心電腦教室 LE404A",
+      "pickup_location": "資訊中心網路與資源管理組-聖言樓SF416",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "C25100089",
+      "name": "藍芽耳機 (Redmi - 白色)",
+      "date_found": "2025-10-14",
+      "location_found": "資訊中心電腦教室 SF337",
+      "pickup_location": "資訊中心網路與資源管理組-聖言樓SF416",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "A114164",
+      "name": "林OO學生證412100OOO",
+      "date_found": "2025-10-15",
+      "location_found": "神學院",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "B71",
+      "name": "袋子（米白色仙人掌）",
+      "date_found": "2025-10-15",
+      "location_found": "ES",
+      "pickup_location": "進-生輔組-進修部ES201",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25100081.gif",
+      "has_image": true
+    },
+    {
+      "id": "B70",
+      "name": "行動電源（白色貓咪）",
+      "date_found": "2025-10-14",
+      "location_found": "LM105",
+      "pickup_location": "進-生輔組-進修部ES201",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25100079.gif",
+      "has_image": true
+    },
+    {
+      "id": "B69",
+      "name": "行動電源（黑）",
+      "date_found": "2025-10-14",
+      "location_found": "LM301",
+      "pickup_location": "進-生輔組-進修部ES201",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25100078.gif",
+      "has_image": true
+    },
+    {
+      "id": "B68",
+      "name": "楊OO學生證512041OOO",
+      "date_found": "2025-10-14",
+      "location_found": "日間部轉交",
+      "pickup_location": "進-生輔組-進修部ES201",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "A114162",
+      "name": "葉OO學生證412210OOO",
+      "date_found": "2025-10-14",
+      "location_found": "新莊分局函寄",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "A114161",
+      "name": "金融卡",
+      "date_found": "2025-10-14",
+      "location_found": "文研樓門口",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "A114155",
+      "name": "陳OO學生證411OOOOOO",
+      "date_found": "2025-10-13",
+      "location_found": "淡水分局函寄",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "A114152",
+      "name": "賴OO證件",
+      "date_found": "2025-10-13",
+      "location_found": "警衛室轉交",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25100063.gif",
+      "has_image": true
+    },
+    {
+      "id": "A114147",
+      "name": "行動電源",
+      "date_found": "2025-10-09",
+      "location_found": "德芳FG507",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "C25100055",
+      "name": "行動電源(銀)+計步器",
+      "date_found": "2025-10-08",
+      "location_found": "資訊中心電腦教室 LE402",
+      "pickup_location": "資訊中心網路與資源管理組-聖言樓SF416",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "A114142",
+      "name": "黑色USB",
+      "date_found": "2025-10-08",
+      "location_found": "國璽樓圖書館",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "A114141",
+      "name": "藍色行充",
+      "date_found": "2025-10-08",
+      "location_found": "國璽樓圖書館",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "A114140",
+      "name": "灰色水壺",
+      "date_found": "2025-10-08",
+      "location_found": "國璽樓圖書館",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "A114139",
+      "name": "黑色水壺",
+      "date_found": "2025-10-08",
+      "location_found": "國璽樓圖書館",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "B50",
+      "name": "行動電源（白）",
+      "date_found": "2025-10-07",
+      "location_found": "ES417",
+      "pickup_location": "進-生輔組-進修部ES201",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25100039.gif",
+      "has_image": true
+    },
+    {
+      "id": "B49",
+      "name": "兔子娃娃",
+      "date_found": "2025-10-07",
+      "location_found": "利瑪竇",
+      "pickup_location": "進-生輔組-進修部ES201",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25100038.gif",
+      "has_image": true
+    },
+    {
+      "id": "B48",
+      "name": "手機殼（豹紋）",
+      "date_found": "2025-10-07",
+      "location_found": "LM106",
+      "pickup_location": "進-生輔組-進修部ES201",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25100037.gif",
+      "has_image": true
+    },
+    {
+      "id": "B46",
+      "name": "耳機（ADATA）",
+      "date_found": "2025-10-07",
+      "location_found": "LM106",
+      "pickup_location": "進-生輔組-進修部ES201",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25100035.gif",
+      "has_image": true
+    },
+    {
+      "id": "C25090138",
+      "name": "隨身碟 (SanDisk - 銀 - 64G)",
+      "date_found": "2025-09-26",
+      "location_found": "資訊中心電腦教室 SF337",
+      "pickup_location": "資訊中心網路與資源管理組-聖言樓SF416",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "B21",
+      "name": "卡夾包（Hello Kitty)",
+      "date_found": "2025-09-26",
+      "location_found": "日間部轉交",
+      "pickup_location": "進-生輔組-進修部ES201",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "B20",
+      "name": "耳機（黑）",
+      "date_found": "2025-09-26",
+      "location_found": "利瑪竇",
+      "pickup_location": "進-生輔組-進修部ES201",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25090136.gif",
+      "has_image": true
+    },
+    {
+      "id": "C25090134",
+      "name": "書籍 (應美114畢業展)",
+      "date_found": "2025-09-26",
+      "location_found": "資訊中心電腦教室 ES601",
+      "pickup_location": "資訊中心網路與資源管理組-聖言樓SF416",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "C25090131",
+      "name": "隨身碟 (ADATA - 白 - 8G)",
+      "date_found": "2025-09-25",
+      "location_found": "資訊中心電腦教室 ES301",
+      "pickup_location": "資訊中心網路與資源管理組-聖言樓SF416",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "A114120",
+      "name": "外套",
+      "date_found": "2025-09-25",
+      "location_found": "國璽樓轉交",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25090126.gif",
+      "has_image": true
+    },
+    {
+      "id": "A114117",
+      "name": "鑰匙",
+      "date_found": "2025-09-25",
+      "location_found": "理園外面",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25090123.gif",
+      "has_image": true
+    },
+    {
+      "id": "C25090121",
+      "name": "隨身碟 (共計11只)",
+      "date_found": "2025-09-24",
+      "location_found": "資訊中心電腦教室 LE4A",
+      "pickup_location": "資訊中心網路與資源管理組-聖言樓SF416",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "B17",
+      "name": "耳機（Airpods pro)",
+      "date_found": "2025-09-24",
+      "location_found": "LM511",
+      "pickup_location": "進-生輔組-進修部ES201",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25090120.gif",
+      "has_image": true
+    },
+    {
+      "id": "B15",
+      "name": "電風扇（黑）",
+      "date_found": "2025-09-23",
+      "location_found": "LM503",
+      "pickup_location": "進-生輔組-進修部ES201",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25090118.gif",
+      "has_image": true
+    },
+    {
+      "id": "B13",
+      "name": "USB(藍）",
+      "date_found": "2025-09-22",
+      "location_found": "LM5F",
+      "pickup_location": "進-生輔組-進修部ES201",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25090116.gif",
+      "has_image": true
+    },
+    {
+      "id": "A114111",
+      "name": "水壺",
+      "date_found": "2025-09-23",
+      "location_found": "生輔組",
+      "pickup_location": "日-生輔組-野聲樓YP104",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25090107.gif",
+      "has_image": true
+    },
+    {
+      "id": "B11",
+      "name": "吳OO學生證412261OOO",
+      "date_found": "2025-09-22",
+      "location_found": "ES",
+      "pickup_location": "進-生輔組-進修部ES201",
+      "image_url": null,
+      "has_image": false
+    },
+    {
+      "id": "B10",
+      "name": "耳機",
+      "date_found": "2025-09-22",
+      "location_found": "利瑪竇",
+      "pickup_location": "進-生輔組-進修部ES201",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25090104.gif",
+      "has_image": true
+    },
+    {
+      "id": "B8",
+      "name": "行充（黑）",
+      "date_found": "2025-09-23",
+      "location_found": "利瑪竇",
+      "pickup_location": "進-生輔組-進修部ES201",
+      "image_url": "https://www.net.fju.edu.tw/lost/pic/25090102.gif",
+      "has_image": true
+    }
+  ],
+  "statistics": {
+    "items_with_images": 52,
+    "items_without_images": 48,
+    "image_percentage": "52%",
+    "most_common_locations": [
+      "國璽樓圖書館",
+      "資訊中心電腦教室",
+      "利瑪竇 (LM)",
+      "ES樓"
+    ],
+    "most_common_item_types": [
+      "學生證",
+      "藍芽耳機/耳機",
+      "隨身碟 (USB)",
+      "行動電源",
+      "水壺/保溫杯"
+    ],
+    "pickup_locations": [
+      "日-生輔組-野聲樓YP104",
+      "資訊中心網路與資源管理組-聖言樓SF416",
+      "進-生輔組-進修部ES201"
+    ]
+  }
+}
